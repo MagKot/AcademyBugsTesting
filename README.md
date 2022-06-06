@@ -1,4 +1,3 @@
 # JSONplaceholder-testing
 
-Będzie tu plan testów oraz wykonane przypadki testowe dla platformy https://jsonplaceholder.typicode.com/
-bookero.pl ?
+Będzie tu plan testów oraz wykonane przypadki testowe i zgłoszenia błędów dla platformy AcademyBugs.com
