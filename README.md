@@ -10,4 +10,4 @@ W tym repozytorium znajdują się w tej chwili:
 
 Nie posiadam oczywiście dokumentacji dla powyższej strony, jednak przypadki testowe były pisane z pewnymi założeniami na temat wymagań.
 
-Planuję do scenariusza testowego oraz wykonania testów, dodać również przypadki opisujące testy wydajnościowe i obciążeniowe (JMeter) oraz testy bezpieczeństwa.
+Testy w tej chwili pokrywają tylko część funkcjonalści sklepu. Planuję do scenariusza testowego oraz wykonania testów, dodać również przypadki opisujące wszystkie ważne funkcjonalności, testy wydajnościowe i obciążeniowe (JMeter) oraz testy bezpieczeństwa.
