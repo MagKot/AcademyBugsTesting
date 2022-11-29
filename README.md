@@ -12,5 +12,8 @@
 
 ## Projekt - testy sklepu Generic Shop
 
-I've decided to make a project that included test plan, test cases and test report of [!Generic Shop](http://skleptest.pl/)
+I've decided to make a project that included test plan, test cases and test report of [Generic Shop](http://skleptest.pl/) e-commerce website
+
+* [Test Plan](https://github.com/MagKot/Portfolio/blob/main/PlanTest%C3%B3wGenericShop.pdf)
+* 
 
