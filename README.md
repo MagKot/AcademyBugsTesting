@@ -12,5 +12,5 @@
 
 ## Projekt - testy sklepu Generic Shop
 
-I've decided to make a project that included test plan, test cases and test report of [![Generic Shop](http://skleptest.pl/)]
+I've decided to make a project that included test plan, test cases and test report of [!Generic Shop](http://skleptest.pl/)
 
