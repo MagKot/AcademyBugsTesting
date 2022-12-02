@@ -23,4 +23,5 @@ I've decided to make a project that included test plan, test cases and test repo
 For Test Plan, Test Cases and Bug Report I was using TestLink, Bugs were reported in Jira. 
 
 
-#### sprawdzam cxzy ukryte
+<!-- This is commented out. -->
+
