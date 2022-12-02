@@ -16,11 +16,11 @@ I've decided to make a project that included test plan, test cases and test repo
 
 * [Test Plan](https://github.com/MagKot/Portfolio/blob/main/PlanTest%C3%B3wGenericShop.pdf)
 * [Test Cases](https://github.com/MagKot/Portfolio/blob/main/TestCases.pdf)
-   * Included 
+   * Included Browser Devtools cases
 * [Bug Report](https://github.com/MagKot/Portfolio/blob/main/Zg%C5%82oszeniaB%C5%82%C4%99d%C3%B3wJira.pdf)
 * [Report](https://github.com/MagKot/Portfolio/blob/main/RaportZTestow.pdf)
 
 For Test Plan, Test Cases and Bug Report I was using TestLink, Bugs were reported in Jira. 
 
 
-
+#### sprawdzam cxzy ukryte
